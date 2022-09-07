@@ -1,0 +1,53 @@
+.r1
+{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/blog-banner-bg.jpg);
+background-size:cover;
+
+background-position:center;
+}
+.r2
+{
+background:linear-gradient(to left,transparent,#433c4e);
+background-size:cover;margin-bottom:13%;
+}
+.r3{border-bottom:1px solid white;}
+.r4{margin-left:10%;}
+.r5{margin-left:27%;}
+
+
+
+ .no{background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/pic.jpg);background-size:100%;padding-bottom:13%;background-repeat:no-repeat;}
+.r1
+{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/blog-banner-bg.jpg);
+background-size:cover;
+height:50vh;
+background-position:center;
+}
+
+.oo{margin-top:2%; border:1px solid #dedede}
+
+.ww{
+	float:left;
+width:20%}
+.w2{
+	float:left;
+width:20%}
+.w3{
+	float:left;
+width:20%}
+.w4{
+	float:left;
+width:20%}
+
+.w5{
+	float:left;
+width:40%;
+padding-bottom: 23px;}
+
+.ll{
+	float:right;
+width:20%}
+.dd{
+	float:left;
+width:100%}

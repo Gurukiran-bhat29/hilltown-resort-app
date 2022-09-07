@@ -1,0 +1,291 @@
+.woyo{overflow-x:hidden;overflow-y:scroll;}
+
+
+.oo{margin-top:2%;
+ border:1px solid #dedede}
+
+.ww{
+	float:left;
+width:20%}
+.w2{
+	float:left;
+width:20%}
+.w3{
+	float:left;
+width:20%}
+.w4{
+	float:left;
+width:20%}
+
+.w5{
+	float:left;
+width:40%;
+padding-bottom: 23px;}
+
+.ll{
+	float:right;
+width:20%}
+.dd{
+	float:left;
+width:100%}
+
+.no{background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/pic.jpg);background-size:100%;
+padding-bottom:16%;background-repeat:no-repeat;
+margin-top:.5%;
+padding-bottom:2.5%;
+background-color:#413d4e%}
+
+.no1{
+	margin-left:7%;
+	float:left;
+	padding-left:-10%;
+    color:white
+}
+
+.no2{color:white}
+
+.no3{float:right;
+margin-left:50%;
+width:13%;
+margin-top:-1.8%}
+
+.no4{margin-left:7%;color:gray}
+.no5{color:white;margin-left:10%;margin-top:5%}
+.no6{color:orange;margin-left:10%}
+.no7{background-color:#2f2f2f}
+.no8{color:#898788}
+.no9{color:#898788;text-align:center}
+.no10{text-align:center;color:white}
+.no11{color:white;padding-left:40%}
+.no12{color:black;padding-left:40%}
+.no13{background-color:#dfdfdf}
+.no14{background-color:#ffb607}
+.no15{background-color:#676767}
+.no16{background-color:#2f2f2f;padding-bottom:3.4%}
+.no17{text-align:center;color:white;padding-top:5%;padding-bottom:6.5%}
+.no18{color:black;padding-left:40%;padding-bottom:8.5%}
+.no19{text-align:center;color:white;padding-top:5%}
+.no20{background-color:#46779f}
+.no21{color:white;padding-left:40%}
+.no22{text-align:center;color:white;padding-top:5%}
+.no23{color:white;padding-left:40%;padding-bottom:8.5%}
+.no24{text-align:center;color:white;padding-top:5%}
+.po1{background-color:#2a2a2c;padding-bottom:10%}
+.po2{margin-left:20%}
+.po3{color:gray;margin-left:5%;margin-top:5%}
+.po4{color:gray;margin-left:20%}
+.po5{color:gray;margin-left:30%;margin-top:-5%}
+.po6{margin-left:25%}
+.po7{color:white}
+.po8{color:gray}
+.po9{color:black}
+.po10{background-color:white}
+.po11{margin-left:350%;}
+.po12{margin-top:2%;padding-bottom:0%;border:1px solid transparent;color:white;}
+
+.a1{margin-left:6%;font-size:35px}
+.a2{font-size:35px}
+.a3{float:left;border-right:3px solid orange}
+.a4{float:right;padding-left:10%}
+.a5{margin-top:-70%}
+.a6{color:black;margin-top:3%}
+.a7{margin-left:7%;margin-top:-6%}
+.a8{margin-left:7%;margin-top:-2%;color:gray}
+.a9{margin-left:9%;margin-top:-8%}
+.a10{margin-left:9%;margin-top:-2%;color:gray}
+.a11{margin-left:9%;margin-top:-8%}
+.a12{margin-left:9%;margin-top:-2%;color:gray}
+.a13{border-bottom:1px solid #dcdcdc}
+.a14{border:1px solid #dcdcdc}
+.a15{color:#ffb609}
+.a16{background-color:black;text-align:center}
+.a17{border:1px solid #dcdcdc}
+.a18{color:light}
+.a19{color:#8a888b;margin-top:5%;}
+.a20{border:1px solid #dcdcdc;}
+.a21{color:#ffb507;margin-left:80%;}
+.a22{color:#ffb507}
+.a23{border:1px solid #dcdcdc;}
+
+.q0{border-bottom:1px solid #dcdcdc}
+.q1{color:orange}
+.q2{color:#b1b1b1}
+.q3{color:#8a888b}
+.q4{color:#8a888b;margin-top:5%}
+.q5{background-color:#f7f7f7}
+.q6{color:orange}
+.q7{border-bottom:1px solid #dcdcdc}
+.q8{border:1px solid black}
+.q9{margin-left:350%;}
+.q10{margin-top: 0%;
+    padding-bottom: 0%;
+    border: 1px solid gainsboro;
+    color: #131111;}
+.q11{margin-left:60%;}
+.q12{margin-left:62%;}
+.q13{margin-left:71.7%;}
+.q14{margin-left:45.8%;}
+.q15{margin-left:65.5%;}
+.q16{margin-left:54.5%;}
+.q17{border-bottom:1px solid #dcdcdc;}
+.q18{border:1px solid #dcdcdc;}
+.q19{border-bottom:1px solid black}
+.q20{margin-top:5%}
+.q21{color:#ffb609}
+
+.style1{
+background-image:url(../images/iphone_6_plus_white_port.png);background-size:31.5%;padding-bottom:30%;background-repeat:no-repeat;}
+.style2{background-color:white;padding-bottom:-10%;margin-bottom:0%;}
+.style3{
+background-color:#fdbf0a;background-size:100%;width:95%;padding-bottom:5%;background-repeat:no-repeat;margin-top:-20%;}
+
+.style5{margin-left:33%;float:left;}
+.style6{margin-right:5%;margin-top:-5.65%;float:right;}
+
+.style7{background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/bg-cta.jpg);background-size:100%;background-repeat:no-repeat;margin-top:-20%;padding-bottom:20%;}
+.style8{color:white;margin-left:20%;margin-top:0%;}
+.style10{
+background-color:#fec947;background-size:100%;width:100%;padding-bottom:2.5%;background-repeat:no-repeat;margin-top:0%;}
+.style11{margin-left:43%;}
+.style12{background-color:#222222;color:white;font-size:20px;}
+
+.style13{background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/slider-5.jpg);background-size:100%;padding:0%;background-repeat:no-repeat;}
+.style14{background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/video-bg.png);background-size:100%;padding-bottom:0%;background-repeat:no-repeat;}
+.style15{background-color:yellow;color:white;font-size:20px;}
+
+.y0{margin-top:.5%}
+.y1{margin-left:7%;float:left;padding-left:-10%}
+.y2{padding-bottom:4%}
+.y3{color:orange;margin-left:32.5%}
+.y4{margin-left:50%;text-align:center}
+.y5{text-align:center}
+.y6{background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/slider-5.jpg);background-size:100%;padding:0%;background-repeat:no-repeat;}
+.y7{background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/video-bg.png);background-size:100%;padding-bottom:0%;background-repeat:no-repeat;}
+.y8{color:black}
+.y9{float:right;margin-left:50%;width:13%;margin-top:-1.8%}
+.y10{background-color:#ffb607;padding-bottom:2.5%;width:20%;margin-left:65%;}
+.y11{color:white}
+.y12{width:80%;border:1px solid black;-webkit-border-radius:5px;margin-top:12%;background-color:black}
+.y13{margin-left:18%}
+.y14{margin-left:-13%}
+.y15{margin-top:-8%;color:white;margin-left:15%}
+.y16{margin-top:-8%;color:white;margin-left:13%}
+.y17{margin-top:-8%;color:white;margin-left:17%}
+.y18{background-color:#f6f6f6}
+.y19{float:left}
+.y20{color:orange;margin-left:37%}
+.y21{margin-left:37.5%}
+.y22{color:black}
+.y23{float:right}
+.y24{border:1px solid black;width:300%;margin-top:55%;margin-left:-775%}
+.y25{margin-left:16.7%}
+.y26{background-color:white}
+.y27{background-color:#ffb607;margin-left:22.5%}
+.y28{margin-left:-13%}
+.y29{background-color:white}
+.y30{background-color:#ffb607;margin-left:22.5%}
+.y31{background-color:#ffb607;margin-left:22.5%}
+.y32{color:white; margin-left:48.3%}
+.y33{background-color:white}
+.y34{color:white;text-align:center}
+.y35{color:#ffb607;text-align:center}
+.y36{background-color:#ffb607}
+.y37{margin-left:28%;margin-bottom:1.5%;margin-top:1%}
+.y38{margin-left:-11%;margin-top:1.6%}
+.y39{margin-left:-10%;margin-bottom:1.5%;margin-top:1%}
+.y40{margin-top:5%;}
+.y41{margin-left:-20%}
+.y42{color:#ffb609}
+.y43{color:#859bb3}
+.y44{background-color:#f6f6f6}
+.y45{color:#ffb406;margin-left:11.5%}
+.y46{margin-left:20%}
+.y47{margin-left:15%}
+.y48{margin-left:10%}
+.y49{border:1px solid black}
+.y50{color:#ffb406}
+.y51{padding-bottom:100px;}
+.y52{width:80%;border:1px solid black;-webkit-border-radius:5px;margin-top:12%;background-color:black}
+.y53{color:yellow}
+
+.x{margin-left:7%}
+.x1{margin-left:5%}
+.x2{color:white;font-size:15px}
+.x3{background-color:#ffb607;color:white;border:1px solid #ffb607; -webkit-border-radius:10%}
+.x4{background-color:#ffb607;color:white;border:1px solid #ffb607; -webkit-border-radius:10%}
+.x5{color:yellow;font-size:15px}
+
+
+
+.num{background-color:black;
+	padding-top:1%;
+     padding-bottom:1%;
+	 padding-left:4%}
+.num1{color:#48bbb6;}
+.num2{border-right:1px solid white;
+		padding-left:3%}
+.num3{color:#38A1f3}
+.num4{color:#4267b2}
+.num5{color:orange}
+.num6{color:#dd4b39}
+.num7{padding-right:3%;padding-left:5.5%}
+.num8{margin-left:45%;background:#302c2d;color:white;border-radius:25px;border:1px solid #302c2d;padding:1%}
+.num9{text-align:center}
+.num10{background-color:#f2f4f3}
+.num11{background-color:#5ec8c6}
+.num12{padding-right:3%;padding-left:1%}
+.num13{background-color:#f36b3b}
+.num14{padding-left:12%;padding-top:4%}
+.num15{background-color:orange}
+.num16{padding-left:22%;padding-top:5%}
+.num17{background-color:#3cb879}
+.num18{padding-left:11%;padding-top:5%}
+.num19{color:gray;
+	   padding-left:23%;
+		margin-top:-9%}
+.num20{font-size:23px;padding-left:1%}
+.num21{padding-top:%}
+.num22{color:gray;
+	   padding-left:21.5%;
+		margin-top:-8%}
+.num23{color:gray;
+	   padding-left:22%;
+		margin-top:-7%}
+.num24{color:gray;
+	   padding-left:23%;
+		margin-top:-7%}
+.num25{padding-left:8%}
+.num26{color:#4ac2c0;}
+.num27{margin-left:-3%}
+.num28{margin-left:10%;background:#4cc3c1;color:white;border-radius:25px;border:1px solid white;padding:2%}
+.num29{margin-left:10%;background:white;color:#4cc3c1;border-radius:25px;border:1px solid #4cc3c1;padding:2%}
+.num30{padding-top:8%;padding-left:9%}
+.num31{background-color:#f15b26;border-radius:25px;color:white;border:1px solid white;padding:2%}
+.num32{color:#4ac2c0;margin-top:-2%}
+.num33{background-color:#f7f9f8}
+.num34{color:#4ac2c0;padding-left:8%}
+.num35{background-color:#302c2d}
+.num36{color:white;padding-left:27%;margin-right:47%}
+.num37{color:white;margin-left:53.5%;padding-right:30%;margin-top:-4.2%}
+.num38{margin-left:10%;background:#4cc3c1;color:white;border-radius:25px;border:1px solid white;padding:3%;}
+.num39{margin-top:-10%}
+.num40{margin-left:70%;margin-top:-13%}
+.num41{margin-right:83%;margin-top:0%}
+.num42{margin-left:15%}
+.num43{background-color:#302c2d;border-radius:25px;color:white;border:1px solid white;padding:1%}
+.num44{background-color:#4cc3c1;border-radius:25px;color:white;border:1px solid white;padding:1%}
+.num45{background-color:#3cb879;padding-bottom:4%;padding-top:2%}
+.num46{color:#64c592;font-size:100px}
+.num47{color:#64c592;margin-top:-23%}
+.num48{color:#4ac2c0}
+.num49{background-color:#f7f9f8}
+.num50{background-color:#121011;padding-bottom:5%;padding-top:1%}
+.num51{background-color:#151314}
+.num52{color:white;margin-left:28%;margin-top:-8%}
+.num53{color:gray;padding-left:28%;margin-top:-8%}
+.num54{color:#ba4823;margin-left:15%}
+.num55{color:green;margin-left:15%}
+.num56{color:orange;margin-left:15%}
+.num57{color:gray;margin-left:4%}
+.num58{background-color:#fcaf3b}
+.num59{border-bottom:2px solid #cca057}

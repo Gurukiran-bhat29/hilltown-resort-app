@@ -1,0 +1,30 @@
+.scroll{overflow-x:hidden;}
+.usa{width:12%;float:left}
+.skyblue{color:#4cc3c1}
+.line{color:gray;padding-left:2%}
+.leftt{float:left}
+.rigtt{float:right}
+.strt{margin-left:10%}
+.no{color:gray;margin-left:-5%}
+.underline{margin-left:-1%}
+.time{color:white;opacity:0.6}
+.mon{margin-left:-20%;}
+.gray{color:gray}
+.transparent{background-color:transparent}
+.top1{margin-top:-12%;margin-left:15%}
+.twitter{color:#4cc3c1}
+.youtube{color:red}
+.facebook{color:blue;background:white;border:1px solid blue}
+
+.main{background-color:#f6f6f6}
+.toppad{padding-bottom:2%}
+.disc{opacity:0.6;padding-left:5%}
+.learn{margin-left:48%;background:#302c2d;color:white;border-radius:25px;border:1px solid #302c2d;padding:1%}
+.big{margin-left:2%}
+
+.item1{width:20%;padding:30px 25px;border:1px solid black;background:#f6f6f6;overflow: hidden;}
+.item2{width:20%;padding:30px 25px;border:1px solid black;background:#4cc3c1;}
+.item3{width:20%;padding:30px 25px;border:1px solid black;background:#f15b26}
+.item4{width:20%;padding:30px 25px;border:1px solid black;background:#fcaf3b}
+.item5{width:20%;padding:30px 25px;border:1px solid black;background:#3cb879}
+.para{text-align:justify;margin-left:23%}

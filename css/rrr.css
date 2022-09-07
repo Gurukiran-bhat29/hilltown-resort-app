@@ -1,0 +1,8 @@
+ .no{background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/pic.jpg);background-size:100%;padding-bottom:13%;background-repeat:no-repeat;}
+.r1
+{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/blog-banner-bg.jpg);
+background-size:cover;
+height:50vh;
+background-position:center;
+}
